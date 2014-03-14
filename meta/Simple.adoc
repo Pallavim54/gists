@@ -1,11 +1,7 @@
-= A simple GraphGist
+= X12 270 Graph Data Model 
 
-:author: Anders Nawroth
-:twitter: @nawroth
+:author: Pallavi
 
-You create a GraphGist by creating a https://gist.github.com/[GitHub Gist] in http://asciidoctor.org/docs/asciidoc-quick-reference/[AsciiDoc] and enter the URL to it in the form on this page.
-
-Click on the Page Source button in the menu to see the source for this GraphGist!
 
 == Include a query console
 
